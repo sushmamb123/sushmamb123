@@ -1,4 +1,4 @@
-<img src="[https://github.com/Ramyapxworkz/Ramyapxworkz/blob/main/bb.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2OYuIqlip_XaBzw83WHIBE&ust=1712251724043000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNipm_DIpoUDFQAAAAAdAAAAABAE)" width="1000" height="200" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="1000" height="200" />
 
 <h1 align="center">Hi 👋, I'm Sushma_mb</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
