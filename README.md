@@ -1,20 +1,20 @@
-<img src="https://github.com/Ramyapxworkz/Ramyapxworkz/blob/main/bb.gif" width="1000" height="200" />
+<img src="[https://github.com/Ramyapxworkz/Ramyapxworkz/blob/main/bb.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2OYuIqlip_XaBzw83WHIBE&ust=1712251724043000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNipm_DIpoUDFQAAAAAdAAAAABAE)" width="1000" height="200" />
 
-<h1 align="center">Hi 👋, I'm Ramya P</h1>
+<h1 align="center">Hi 👋, I'm Sushma_mb</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-- 🌱 I’m currently learning **Java enterprise application development**
+- 🌱 I have Completed Java enterprise application development
 
-- 💬 Ask me about **Core Java,OOPs,Collection,JDBC,MySQL,HTML,CSS and JS**
+- 💬 Ask me about **Core Java,OOPs,Collection,JDBC,MySQL,HTML,CSS,Java Script,Spring,JSP,JPA**
 
-- 📫 How to reach me **rramyap920@gmail.com**
+- 📫 How to reach me **sushmamb296@gmail.com**
 
-- 📄 My resume <a href="https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk" target="blank"> click here</a>
+- 📄 My resume <a href="https://drive.google.com/file/d/13qa2j3guclKUKIMl6raDezKuN6oXE1ZM/view?usp=drivesdk" target="blank"> click here</a>
 -  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramya-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramya-p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sushma-m-b-m-b-5b901a2b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramya-p" height="30" width="40" /></a>
 <a href="https://instagram.com/ramya_._._._p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramya_._._._p" height="30" width="40" /></a>
 </p>
 
